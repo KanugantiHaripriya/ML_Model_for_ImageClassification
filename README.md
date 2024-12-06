@@ -25,7 +25,7 @@ This project demonstrates the implementation of machine learning models for imag
 ````
 ## Usuage
 - Run the Streamlit app:
-bash
+```bash
    streamlit run app.py
 -Upload an image in the web app.
 -Select the model (MobileNetV2 or CIFAR-10) for classification.
