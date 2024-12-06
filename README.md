@@ -28,6 +28,6 @@ This project demonstrates the implementation of machine learning models for imag
 ```bash
    streamlit run app.py
 ```
--Upload an image in the web app.
--Select the model (MobileNetV2 or CIFAR-10) for classification.
--View the predicted class and confidence score.
+- Upload an image in the web app.
+- Select the model (MobileNetV2 or CIFAR-10) for classification.
+- View the predicted class and confidence score.
